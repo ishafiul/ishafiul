@@ -26,7 +26,7 @@ I’m Safiul Islam,
 developer who loves to code and passionate about designing and developing Web APIs. Personally I like JavaScript a lot. I enjoy working with frameworks such as React, Angular, Express, Nest, and sometime Laravel...
 
 
-- 🔭 I’m currently devoloping a flutter app for Joruri Tech
+- 🔭 I’m currently devoloping some flutter app for Joruri Tech
 - 🌱 I’m currently learning Dart, flutter, graphql
 <!--
 - 👯 I’m looking to collaborate on ...
